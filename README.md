@@ -35,7 +35,8 @@ cd <repository-name>
                 .url("https://api.openai.com/v1/chat/completions")
                 .header("Authorization", "Bearer OpenAI API KEY")
                 .post(body)
-                .build(); ```
+                .build();
+```
 
 Do the same for the ImageActivity.java in the same directory.
 
