@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="input_color">#FF000000</color>
+    <color name="toolbar_color">#FFFFFFFF</color>
+    <color name="chat_color">#FFFFFFFF</color>
+    <color name="grey">#FF808080</color>
+    <color name="container_background">#f3f6fc</color>
+    <color name="primaryColor">#f3f6fc</color>
+    <color name="drawabletint">#aaaaaa</color>
+    <color name="navigation_text_color">#FF0000</color>
+    <color name="toolbar_dark">#000000</color> <!-- Replace with your desired AMOLED black color -->
+    <color name="background_dark">#808080</color><!-- Replace with your desired grey color -->
+    <color name="outline_color">#FF000000</color>
+</resources>

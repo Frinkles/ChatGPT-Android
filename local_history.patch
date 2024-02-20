@@ -1,0 +1,23 @@
+Index: app/src/main/java/com/ai/alchemist/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/ai/alchemist/MainActivity.java b/app/src/main/java/com/ai/alchemist/MainActivity.java
+--- a/app/src/main/java/com/ai/alchemist/MainActivity.java	
++++ b/app/src/main/java/com/ai/alchemist/MainActivity.java	(date 1683300927459)
+@@ -1,4 +1,4 @@
+-package com.ai.alchemist;
++package com.world.aigptcentral;
+ 
+ import androidx.annotation.NonNull;
+ import androidx.appcompat.app.AppCompatActivity;
+@@ -11,7 +11,7 @@
+ import android.widget.ImageButton;
+ import android.widget.TextView;
+ 
+-import com.ai.alchemist.R;
++import com.example.aigptcentral.R;
+ 
+ import org.json.JSONArray;
+ import org.json.JSONException;

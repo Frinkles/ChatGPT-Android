@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- ... other attributes ... -->
+        <item name="colorPrimary">#FF0000</item> <!-- Replace with your desired color -->
+    </style>
+</resources>

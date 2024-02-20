@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- navigation_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:id="@+id/nav_profiles"-->
+<!--        android:title="Profiles" />-->
+    <item
+        android:id="@+id/nav_chat"
+        android:title="Chat" />
+    <item
+        android:id="@+id/nav_images"
+        android:title="Images" />
+</menu>
